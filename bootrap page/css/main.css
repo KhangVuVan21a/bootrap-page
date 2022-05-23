@@ -128,7 +128,7 @@ li:hover>a:hover.list-item5{
     flex-direction: column;
 }
 .st-lg{
-    margin-bottom: 20px;
+    margin-bottom: 0.5em;
     display: inline-block;
 }
 .lg{
@@ -208,4 +208,9 @@ b{
 }
 .footer-title{
     text-align: center;
+}
+.card-img-right{
+    position: absolute;
+    top: auto;
+    bottom: 0;
 }
