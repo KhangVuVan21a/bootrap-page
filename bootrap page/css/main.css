@@ -1,0 +1,71 @@
+.header{
+    height:5em;
+    background-color: #044863;
+    position: fixed;
+    top:0;
+}
+.menu{
+    position: fixed;
+    left: 0;
+    background-color: #2a2f33;
+    min-height: 100%;
+}
+label{
+    color: white;
+}
+.layout{
+    height: 1000px;
+    background-color: aqua;
+}
+.d-app{
+    padding-top: 5em;
+}
+.header-search{
+    height: 5em;
+    border-right-color: #2a2f33;
+    display: flex;
+    width: 100%;
+    color: white;
+    justify-content: center;
+    padding: 1em;
+}
+.btn-search{
+    color: white !important;
+    outline: none ;
+    box-shadow: none;
+    padding: 15px;
+}
+.no-margin{
+    margin-left: 0;
+    margin-right: 0;
+}
+.header-box{
+    display: block;
+    height: 100%;
+} 
+.box-logo{
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    height: 100%;
+    padding: 0;
+}
+.box-dowload-btn{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding: inherit;
+}  
+.btns{
+    margin-right: 0;
+    text-align: right;  
+}
+.btns-link{
+    display: inline;
+}
+.box-right{
+    height: 100%;
+}
+.logo{
+    align-items: center;
+}
