@@ -313,7 +313,11 @@ p {
     border-bottom: 2px solid #e14a3f;
     font-size: 30px;   
 }
-li{
-    margin-bottom: 2em;
-    margin-top: 2em;
+
+.text-image-header{
+    position: absolute;
+    bottom: 0;
+    color: white;
+    padding-left: 1em;
+    padding-right: 1em;
 }
