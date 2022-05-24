@@ -328,3 +328,7 @@ p {
 .col-btn{
     margin-left: 2em;
 }
+.lg-title-second{
+    padding-bottom: 5px;
+    font-size: 25px;  
+}
