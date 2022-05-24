@@ -321,3 +321,10 @@ p {
     padding-left: 1em;
     padding-right: 1em;
 }
+.btn-view-all{
+    text-align: right;
+    white-space: nowrap;
+}
+.col-btn{
+    margin-left: 2em;
+}
