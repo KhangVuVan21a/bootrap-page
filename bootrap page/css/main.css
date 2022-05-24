@@ -214,3 +214,22 @@ b{
     top: auto;
     bottom: 0;
 }
+.item-viewed{
+    background-color: #0fb3f3;
+    color: #fff;
+    position: absolute;
+    transform: translate(10px);
+    top:0;
+    right: 0;
+    padding-left: 0.7em;
+    padding-right: 0.7em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    align-content: center;
+}
+.item-viewed-list{
+    top: -10%;
+}
+.icon-viewed{
+    margin-right: 0.3em;
+}
