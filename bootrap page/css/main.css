@@ -241,7 +241,9 @@ b {
 .item-text-p {
     color: gray;
     font-size: 15px;
-
+}
+.item-text-p-right{
+    text-align: right;
 }
 
 .items-footer {
@@ -316,10 +318,13 @@ p {
 
 .text-image-header{
     position: absolute;
+    background-color: gray;
     bottom: 0;
     color: white;
     padding-left: 1em;
     padding-right: 1em;
+    padding-top: 1em;
+    margin-right: 1em;
 }
 .btn-view-all{
     text-align: right;
@@ -331,4 +336,8 @@ p {
 .lg-title-second{
     padding-bottom: 5px;
     font-size: 25px;  
+}
+.logo-item-footer{
+    width: 20%;
+    height: 100%;
 }
